@@ -113,7 +113,7 @@ p {
   font-family: 'Oswald', sans-serif;
   text-align: left;
   letter-spacing: 2px;
-  font-size: 90px;
+  font-size: 65px;
   letter-spacing: 2px;
   text-transform: uppercase;
 }
@@ -1173,15 +1173,7 @@ blockquote {
     align-items: flex-start;
 }
 
-.logo {
-    margin-top: 60px;
-    margin-left: 60px;
-}
 
-.logo-image {
-    width: 100px;
-    max-width: 100px;
-}
 
 .navigation {
     position: relative;
